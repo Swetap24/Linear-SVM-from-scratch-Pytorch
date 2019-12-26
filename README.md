@@ -7,3 +7,6 @@ In machine learning, support-vector machines (SVMs, also support-vector networks
 Although, there are libraries that are available to make use of this functionality, it is good to know how one arrived there.
 
 Enjoy Coding! :)
+
+
+~citation--https://github.com/eriklindernoren/ML-From-Scratch/tree/master/mlfromscratch/supervised_learning
