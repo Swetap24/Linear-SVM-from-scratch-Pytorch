@@ -1,2 +1,2 @@
-# Linear-SVM-from-scratch-
-Linear SVM sing CVXOPT4 Python package
+# Linear-SVM-from-scratch
+Linear SVM using CVXOPT4 Python package
